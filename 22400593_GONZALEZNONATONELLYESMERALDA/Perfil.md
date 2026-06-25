@@ -7,6 +7,7 @@
 - 📚 Carrera: Ingeniería en Sistemas Computacionales
 - 🏫 Escuela: Instituto Tecnológico de Tepic
 - 🆔 Número de Control: 22400593
+- Materia: Laboratorio De Bases De Datos Nosql
 
 ## 💻 Intereses
 - Inteligencia Artificial

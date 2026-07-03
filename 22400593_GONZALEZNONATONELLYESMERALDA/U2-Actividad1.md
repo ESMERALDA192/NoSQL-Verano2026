@@ -1,5 +1,5 @@
 
-# Actividad 1 - Gestión de una Biblioteca con MongoDB
+# Actividad 1 - Gestión de una Biblioteca con MongoDB.
 **GONZALEZ NONATO NELLY ESMERALDA
 **LABORATORIO DE BASE DE DATOS NOSQL
 **VIERNES 03 DE JULIO 2026

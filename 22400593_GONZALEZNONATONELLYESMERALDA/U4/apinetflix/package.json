@@ -4,12 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-   "start": "nodemon apinetflix.js"
+    "start": "nodemon apinetflix.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.2.1"
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mongoose": "^9.8.0",
+    "morgan": "^1.11.0"
   }
 }
